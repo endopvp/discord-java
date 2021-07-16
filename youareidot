@@ -1,0 +1,16 @@
+package me.is.stupid;
+
+import java.sql.SQLOutput;
+import java.util.Locale;
+import IAmStupid!
+
+public class IAmStupid {
+
+    public static void main(String[] args) {
+    
+   System.out.println("I am stupid!");
+   
+   cook();
+   iamstupid();
+   
+ 
